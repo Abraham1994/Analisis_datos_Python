@@ -18,9 +18,9 @@
 
 * Bokeh es una biblioteca para crear gráficos interactivos y aplicaciones de datos en modernos navegadores web. Permite al usuario generar gráficos elegantes y concisos al estilo de D3.js. Además, tiene la capacidad de interactividad de alto rendimiento en conjuntos de datos muy grandes o en streaming.
 
- * Blaze es una libreria que sirve  para ampliar la capacidad de Numpy y Pandas a conjuntos de datos distribuidos y en streaming. Puede utilizarse para acceder a datos de una multitud de fuentes, incluyendo Bcolz, MongoDB, SQLAlchemy, Apache Spark, PyTables, etc. Junto con Bokeh, Blaze puede actuar como una herramienta muy potente para crear visualizaciones y  dashboards eficaces con los datos.
+* Blaze es una libreria que sirve  para ampliar la capacidad de Numpy y Pandas a conjuntos de datos distribuidos y en streaming. Puede utilizarse para acceder a datos de una multitud de fuentes, incluyendo Bcolz, MongoDB, SQLAlchemy, Apache Spark, PyTables, etc. Junto con Bokeh, Blaze puede actuar como una herramienta muy potente para crear visualizaciones y  dashboards eficaces con los datos.
  
- * Scrapy, es un framework  muy útil para obtener patrones específicos de datos. Tiene la capacidad de comenzar en una URL de sitio web y luego buscar a través de las páginas web del sitio web para recopilar información.
+* Scrapy, es un framework  muy útil para obtener patrones específicos de datos. Tiene la capacidad de comenzar en una URL de sitio web y luego buscar a través de las páginas web del sitio web para recopilar información.
  
- * SymPy es una biblioteca  para la computación simbólica. Tiene amplias capacidades desde la aritmética simbólica básica hasta el cálculo, el álgebra, la matemática discreta y la física cuántica. Otra característica útil es la capacidad de formatear el resultado de los cálculos como código LaTeX.
+* SymPy es una biblioteca  para la computación simbólica. Tiene amplias capacidades desde la aritmética simbólica básica hasta el cálculo, el álgebra, la matemática discreta y la física cuántica. Otra característica útil es la capacidad de formatear el resultado de los cálculos como código LaTeX.
   
