@@ -1,4 +1,19 @@
-# Analisis de datos con Python
+# Análisis de datos con Python
+
+
+# Temario 
+
+* Clase1: Introducción al análisis de datos
+* Clase 2: Ipython and Jupyter
+* Clase 3: Introducción a Pandas
+ - Instalando Pandas
+* Clase 4-5: Numpy para pandas
+* Clase 6 -8: Manipulación de datos con pandas
+ - Objeto Series de  pandas
+ - Objeto Dataframe de pandas
+* Clase 9-10 Accediendo a los datos con pandas
+* Clase 11- 13 Formas de corregir los datos con pandas(tidying up)
+
 
 
 ## Herramientas a  usar 
