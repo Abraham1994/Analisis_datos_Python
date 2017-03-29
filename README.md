@@ -4,9 +4,9 @@
 # Temario 
 
 * [Clase1: Introducción al análisis de datos](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase1/Clase1.ipynb).
-* Clase 2: [Ipython and Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Ipython-Jupyter.ipynb).
+* [Clase 2: Ipython and Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Ipython-Jupyter.ipynb).
   - [Errores, depuracion , perfiles en Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Errores-depuracion-perfiles.ipynb).
-* Clase 3 -4: [Introducción a Pandas](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
+* [Clase 3 -4: Introducción a Pandas](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
   - Objeto Series de  pandas
   - Objeto Dataframe de pandas
 * Clase 5-6: Numpy para pandas
@@ -16,7 +16,7 @@
 * Clase 16-18: Aplicaciones: Uso de Scrapy.
 * Clase 19-21: Introducción a la visualización con seaborn y Bokeh.
 * Clase 22-25: Algoritmos de machine learning.
-* clase 26-28: D3 en Jupyter. Ejemplos
+* clase 26-28: D3 en Jupyter. Ejemplos.
 
 ## Lecturas
 
