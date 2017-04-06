@@ -8,7 +8,7 @@
   - [Errores, depuracion , perfiles en Jupyter](https://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Clase2/Errores-depuracion-perfiles.ipynb).
 * [Clase 3 -4: Introducción a Pandas](http://nbviewer.jupyter.org/github/C-Lara/Analisis_datos_Python/blob/master/Pre-requisitos/pandas/Pandas.ipynb).
   - Objeto Series de  pandas
-  - Objeto Dataframe de pandas
+  - [Objeto Dataframe de pandas](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Clase3/Objeto_Dataframe_pandas.ipynb).
 * Clase 5-6: Numpy para pandas
 * Clase 7-8 Accediendo a los datos con pandas
 * Clase 9-10 Formas de corregir los datos con pandas(tidying up)
