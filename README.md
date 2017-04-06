@@ -18,28 +18,8 @@
 * Clase 22-25: Algoritmos de machine learning.
 * clase 26-28: D3 en Jupyter. Ejemplos.
 
-## Lecturas
 
-###  Clases 1-2
-
-* [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
-* [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
-* What do you need to Know about Python, Pierluigi Riti 2016 Packt Publishing.
-* [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1489852822&sr=8-1&keywords=joel+grus) de  Joel Grus 2015 O’Reilly Media : Chapter 1- 2.
-* [Introducing Data Science, Big Data, Machine Learning and more using Python Tools](https://www.manning.com/books/introducing-data-science), Davy Cielen, Arno D. B. Meysman, and Mohamed Ali   Chapter 1-2.
-
-## Herramientas a  usar 
-
-
-### Proyecto Jupyter y el Jupyter Nbviewer
-
-El [Proyecto Jupyter](http://jupyter.org/)  es una aplicación web que te permite crear y compartir documentos que contienen código de diversos lenguajes de programación, ecuaciones,  visualizaciones y texto en diversos formatos. El uso de Jupyter incluye la ciencia de datos, simulación numérica, la modelización en estadística, Machine Learning, etc.
-
-
-[Jupyter nbviewer](https://nbviewer.jupyter.org/)  es un servicio web gratuito que te permite compartir las versiones de archivos realizados por Jupyter, permitiendo el renderizado de diversos fórmatos incluyendo, código latex.
-
-- [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
-
+## Requisitos
 
 ### Git y Github
 
@@ -56,30 +36,43 @@ c-lara@Lara:~$sudo apt-get update
 c-lara@Lara:~$sudo apt-get install git
 ```
 
-Referencias y Lecturas
+Referencias y Lecturas:
 
 - [Usando el GIT](http://www.cs.swarthmore.edu/~newhall/unixhelp/git.php).
 - [Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction).
 - [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-es.html).
 
+### GitHub Classroom
+
+[GitHub Classroom ](https://classroom.github.com/)  es una propuesta de Github para ser una guía para el salón de clases, donde explican como crear una organización para dictar una clase determinada  y paso a paso convertirla en el motor de aprendizaje del curso.
+
+Videos:
+
+- [Github-Classroom-Getting Started](https://www.youtube.com/watch?v=ChA_zph7aao).
+- [GitHub Classroom — How to set up individual assignments ](https://www.youtube.com/watch?v=rTsfBAV7sOo).
+- [GitHub Classroom — How to set up group assignments ](https://www.youtube.com/watch?v=-52quDR2QSc).
+
+## Lecturas
+
+###  Clases 1-2
+
+* [What is data science? The future belongs to the companies and people that turn data into products.](https://www.oreilly.com/ideas/what-is-data-science).
+* [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).
+* What do you need to Know about Python, Pierluigi Riti 2016 Packt Publishing.
+* [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1489852822&sr=8-1&keywords=joel+grus) de  Joel Grus 2015 O’Reilly Media : Chapter 1- 2.
+* [Introducing Data Science, Big Data, Machine Learning and more using Python Tools](https://www.manning.com/books/introducing-data-science), Davy Cielen, Arno D. B. Meysman, and Mohamed Ali   Chapter 1-2.
+* [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/).
+* [Numba vs cython](https://jakevdp.github.io/blog/2013/06/15/numba-vs-cython-take-2/).
 
 
+### Clase 3-4
+
+* [Memory layout of multi-dimensional arrays](http://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays/).
+* [Broadcasting in Numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc).
+* [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
 
 
-### MongoDB
-
-[MongoDB](https://www.mongodb.org/) es una sistema de base de datos NoSQL de código abierto utilizado  en aplicaciones web modernas, escrito en C++ le confiere cierta cercanía a los recursos del hardware, de modo que es bastante rápido a la hora de ejecutar sus tareas. MongoDB es una base de datos orientada a documentos, es decir guarda los datos en documentos que son almacenados en un representación binaria de JSON, llamado BSON.
-
-Genbeta:dev tiene una lista de [artículos](http://www.genbetadev.com/bases-de-datos/una-introduccion-a-mongodb) para empezar en el mundo de las bases de datos NoSQL y MongoDB. Es interesantes ver los videos colgados en Youtube sobre MongoDB.
-
-- [¿Qué es MongoDB?](https://www.youtube.com/watch?v=CvIr-2lMLsk).
-- [Comparación de SQL y MongoBD](https://www.youtube.com/watch?v=kDSjVTpu8kI).
-- [Contruyendo tu primera aplicación con MongoDB](https://www.youtube.com/watch?v=ClAQEARNUoQ).
-
-Para poder instalar en Ubuntu, es preferible revisar la [documentación](http://docs.mongodb.org/master/tutorial/install-mongodb-on-ubuntu/) desde la página de MongoDB.
-
-
-
+## Herramientas a  usar 
 
 ### Anaconda 
 
@@ -117,6 +110,28 @@ El proyecto [Anaconda](https://www.continuum.io/downloads) ha creado [R Essentia
 ```bash
 c-lara@Lara:~$ conda install -c r r-essentials
 ``` 
+
+### Proyecto Jupyter y el Jupyter Nbviewer
+
+El [Proyecto Jupyter](http://jupyter.org/)  es una aplicación web que te permite crear y compartir documentos que contienen código de diversos lenguajes de programación, ecuaciones,  visualizaciones y texto en diversos formatos. El uso de Jupyter incluye la ciencia de datos, simulación numérica, la modelización en estadística, Machine Learning, etc.
+
+
+[Jupyter nbviewer](https://nbviewer.jupyter.org/)  es un servicio web gratuito que te permite compartir las versiones de archivos realizados por Jupyter, permitiendo el renderizado de diversos fórmatos incluyendo, código latex.
+
+- [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
+
+### MongoDB
+
+[MongoDB](https://www.mongodb.org/) es una sistema de base de datos NoSQL de código abierto utilizado  en aplicaciones web modernas, escrito en C++ le confiere cierta cercanía a los recursos del hardware, de modo que es bastante rápido a la hora de ejecutar sus tareas. MongoDB es una base de datos orientada a documentos, es decir guarda los datos en documentos que son almacenados en un representación binaria de JSON, llamado BSON.
+
+Genbeta:dev tiene una lista de [artículos](http://www.genbetadev.com/bases-de-datos/una-introduccion-a-mongodb) para empezar en el mundo de las bases de datos NoSQL y MongoDB. Es interesantes ver los videos colgados en Youtube sobre MongoDB.
+
+- [¿Qué es MongoDB?](https://www.youtube.com/watch?v=CvIr-2lMLsk).
+- [Comparación de SQL y MongoBD](https://www.youtube.com/watch?v=kDSjVTpu8kI).
+- [Mongo demo](https://rsandstroem.github.io/MongoDBDemo.html)
+- [Contruyendo tu primera aplicación con MongoDB](https://www.youtube.com/watch?v=ClAQEARNUoQ).
+
+Para poder instalar en Ubuntu, es preferible revisar la [documentación](http://docs.mongodb.org/master/tutorial/install-mongodb-on-ubuntu/) desde la página de MongoDB.
 
 ## Software
 
