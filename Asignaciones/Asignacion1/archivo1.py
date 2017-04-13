@@ -1,5 +1,7 @@
 # Codigo de Python de ejemplos
 
+# Funciones de cadenas
+
 "		Hello, world! \t\t\n".strip()
 "Hola,  amigos!".split()
 "Hela, amigos!".split(" ")
@@ -10,6 +12,8 @@
 " ".join("Esta cadena\n\r tiene  muchos \t\tespacios".split())
 "www.networksciencelab.com".find(".com")
 "www.networksciencelab.com".count(".")
+
+# Estructuras de python
 
 bLista = [str(i) for i in range(10000000)]
 "abc" in bLista
@@ -22,6 +26,8 @@ kseq = "abcd"
 vseq = ["alpha", "bravo", "charlie", "delta"]
 dict(zip(kseq, vseq))
 
+# Algo de programacion funcional en Python 
+
 [x for x in miLista]
 [x for x in miLista if x >= 0]
 [x**2 for x in miLista]
@@ -31,6 +37,7 @@ dict(zip(kseq, vseq))
 
 (x**2 for x in miLista)
 
+# Modulo collections
 
 from collections import Counter
 frase = "ella es la mas bella entre todas"
@@ -39,6 +46,7 @@ cntr.most_common()
 cntrDict['a']
 
 
+# Leer y escribir archivos en Python
 
 f.read() 
 f.read(n) 
@@ -47,6 +55,7 @@ f.readlines()
 f.write(line) 
 f.writelines()
 
+# modulo urllib
 
 import urllib.request
 try:
