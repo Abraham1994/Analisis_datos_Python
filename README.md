@@ -52,6 +52,10 @@ Videos:
 - [GitHub Classroom — How to set up individual assignments ](https://www.youtube.com/watch?v=rTsfBAV7sOo).
 - [GitHub Classroom — How to set up group assignments ](https://www.youtube.com/watch?v=-52quDR2QSc).
 
+## Asignaciones
+
+- [Asignacion1](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Asignaciones/Asignacion1/Asignacion1.ipynb).
+
 ## Lecturas
 
 ###  Clases 1-2
