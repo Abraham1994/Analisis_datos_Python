@@ -11,6 +11,7 @@
   - [Objeto Dataframe de pandas](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Clase3/Objeto_Dataframe_pandas.ipynb).
 * Clase 6: Numpy para pandas
   - [Introducción a Numpy](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Pre-requisitos/numpy-scipy/Notas-Numpy.ipynb).
+  - [Notas de Numpy para pandas(1)](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Clase4/Numpy_Pandas1.ipynb).
 * Clase 7-8 Accediendo a los datos con pandas
 * Clase 9-10 Formas de corregir los datos con pandas(tidying up)
 * Clase 11-14: Manipulación de datos con pandas
