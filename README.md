@@ -101,7 +101,6 @@ Es recomendable leer, alguna de las característica de Anaconda en el siguiente 
 3 . La instalación de paquetes como [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) o [bokeh](http://bokeh.pydata.org/en/latest/) se pueden realizar a través de Anaconda, de la siguiente manera:
 
 
-
 ``` bash
 c-lara@Lara:~$ conda install bokeh
 ```
