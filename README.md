@@ -126,6 +126,18 @@ El [Proyecto Jupyter](http://jupyter.org/)  es una aplicación web que te permit
 
 - [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
 
+[Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) contiene una colección de extensiones no oficiales de la comunidad que añaden funcionalidad a Jupyter notebook. Estas extensiones están escritas principalmente en Javascript y se cargarán localmente en su navegador.
+
+```bash
+c-lara@Lara:~$ pip install jupyter_contrib_nbextensions
+``` 
+
+O utilizando conda
+
+```bash
+c-lara@Lara:~$ conda install -c conda-forge jupyter_contrib_nbextensions
+``` 
+
 ### MongoDB
 
 [MongoDB](https://www.mongodb.org/) es una sistema de base de datos NoSQL de código abierto utilizado  en aplicaciones web modernas, escrito en C++ le confiere cierta cercanía a los recursos del hardware, de modo que es bastante rápido a la hora de ejecutar sus tareas. MongoDB es una base de datos orientada a documentos, es decir guarda los datos en documentos que son almacenados en un representación binaria de JSON, llamado BSON.
