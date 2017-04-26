@@ -58,6 +58,7 @@ Videos:
 
 - [Asignacion1](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Asignaciones/Asignacion1/Asignacion1.ipynb).
 - [Asignacion2](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Asignaciones/Asignacion2/Asignacion2.ipynb).
+- [Asignacion3](https://nbviewer.jupyter.org/github/CC-001/Analisis_datos/blob/master/Asignaciones/Asignacion3/Asignacion3.ipynb).
 
 ## Lecturas
 
